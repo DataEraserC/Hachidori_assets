@@ -151,7 +151,7 @@
 
     <string name="feature_remove_discover_new_list_title">移除发现新列表</string>
 
-    <string name="feature_remove_premium_upsell_prompt_title">移除会员升级提示</string>
+    <string name="feature_remove_premium_upsell_prompt_title">移除 Premium 升级提示</string>
 
     <string name="feature_replace_translator_title">替换翻译器</string>
 
